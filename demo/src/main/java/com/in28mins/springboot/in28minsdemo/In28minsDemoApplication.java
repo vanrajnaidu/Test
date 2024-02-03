@@ -8,6 +8,6 @@ public class In28minsDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(In28minsDemoApplication.class, args);
-		System.out.println("abc");
+		System.out.println("abcdef");
 	}
 }
